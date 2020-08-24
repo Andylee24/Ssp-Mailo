@@ -1,4 +1,4 @@
-const csKdOsOtLF = ['cantbreath.shop', 'www.cantbreath.shop'];
+const csKdOsOtLF = ['你的授權域名.com', 'www.你的授權域名.com'];
 
 function GD4vwp4l() {
     
